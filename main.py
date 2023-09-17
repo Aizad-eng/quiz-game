@@ -27,8 +27,3 @@ else:
     print("YOu failed")
 
 
-# Asks user a question from a list of questions
-#Check answer
-#If the answer is correct add 1 to scorew
-
-
